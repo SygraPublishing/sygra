@@ -1,0 +1,327 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sygra.com" resolutions="1x" timestamp="1533301682058">
+  <folder name="css">
+    <file name="site_global.css" crc="3872606453"/>
+    <file name="master_a-master.css" crc="98154068" ref="contact:our-books:classics:private-policy:our-authors:n.-j.-sterling:index"/>
+    <file name="contact.css" crc="276804075" ref="contact"/>
+    <file name="our-books.css" crc="4017961301" ref="our-books"/>
+    <file name="classics.css" crc="400232159" ref="classics"/>
+    <file name="private-policy.css" crc="3920337768" ref="private-policy"/>
+    <file name="our-authors.css" crc="4121838019" ref="our-authors"/>
+    <file name="n_-j_-sterling.css" crc="285338307" ref="n.-j.-sterling"/>
+    <file name="index.css" crc="452822547" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="require.js" crc="85721165" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u4922-4.png" crc="359971512" ref="phone>index"/>
+    <file name="use this for website.png" crc="4225717148" seo="true" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors:index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="our-authors" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="authors" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="private-policy" alt=""/>
+    </file>
+    <file name="u3030-4.png" crc="48137309" ref="phone>index:phone>our-books:phone>classics:phone>contact:phone>authors"/>
+    <file name="u3326-4.png" crc="3942200112" ref="phone>our-books"/>
+    <file name="u3327-4.png" crc="106736670" ref="phone>our-books"/>
+    <file name="hd cover v15 kindle picture!.jpg" crc="467492194" seo="true" ref="phone>our-books:phone>authors:our-books:n.-j.-sterling">
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="authors" alt=""/>
+    </file>
+    <file name="u3932-6.png" crc="4180390086" ref="phone>our-books"/>
+    <file name="amazon button.png" crc="4266470081" seo="true" ref="phone>our-books:phone>classics:classics">
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+    </file>
+    <file name="kindle button.png" crc="4121178322" seo="true" ref="phone>our-books">
+      <caption webpage="our-books" alt=""/>
+    </file>
+    <file name="u3924-4.png" crc="231394278" ref="phone>our-books"/>
+    <file name="u3921-15.png" crc="375298565" ref="phone>our-books"/>
+    <file name="u3925-7.png" crc="3979964898" ref="phone>our-books"/>
+    <file name="njs logo png.png" crc="87432602" seo="true" ref="phone>our-books:our-books:n.-j.-sterling">
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+    </file>
+    <file name="u3517-4.png" crc="3996902917" ref="phone>classics"/>
+    <file name="u3539-4.png" crc="359823502" ref="phone>classics"/>
+    <file name="wizard of oz.jpg" crc="3968341221" seo="true" ref="phone>classics:classics">
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+    </file>
+    <file name="u3522-4.png" crc="24432121" ref="phone>classics"/>
+    <file name="arabian.jpg" crc="6565305" seo="true" ref="phone>classics:classics">
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+    </file>
+    <file name="u3573-4.png" crc="24432121" ref="phone>classics"/>
+    <file name="alice.jpg" crc="4189813354" seo="true" ref="phone>classics:classics">
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+    </file>
+    <file name="u3556-4.png" crc="24432121" ref="phone>classics"/>
+    <file name="gullivers travels.jpg" crc="3980720009" seo="true" ref="phone>classics:classics">
+      <caption webpage="classics" alt=""/>
+      <caption webpage="classics" alt=""/>
+    </file>
+    <file name="u3591-4.png" crc="3923746374" ref="phone>classics"/>
+    <file name="u4907-4.png" crc="359971512" ref="phone>contact"/>
+    <file name="pasted image 1547x870-crop-u3642.jpg" crc="197287427" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 600x300-crop-u3644.jpg" crc="4113023260" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 300x300.jpg" crc="4183594584" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 512x512.jpg" crc="4270150690" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 900x900-crop-u3650.jpg" crc="331244489" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="goodreads_icon_1000x1000-aed808dec2093e20867b35cd56d9862d.png" crc="3889894303" seo="true" ref="phone>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u3462-4.png" crc="158851412" ref="phone>authors"/>
+    <file name="dsc_5778_ppsmaller_pp2-crop-u4666.jpg" crc="442490660" seo="true" ref="phone>authors">
+      <caption webpage="authors" alt=""/>
+    </file>
+    <file name="u4725-4.png" crc="533168041" ref="phone>authors"/>
+    <file name="u4726-4.png" crc="106736670" ref="phone>authors"/>
+    <file name="u4732-4.png" crc="164510896" ref="phone>authors"/>
+    <file name="pasted image 180x180.jpg" crc="25541250" seo="true" ref="phone>authors">
+      <caption webpage="authors" alt=""/>
+    </file>
+    <file name="pasted image 351x378-crop-u4734.jpg" crc="4280656040" seo="true" ref="phone>authors">
+      <caption webpage="authors" alt=""/>
+    </file>
+    <file name="pasted image 305x320-crop-u4736.jpg" crc="422471864" seo="true" ref="phone>authors">
+      <caption webpage="authors" alt=""/>
+    </file>
+    <file name="u4730-15.png" crc="375298565" ref="phone>authors"/>
+    <file name="u833-4.png" crc="11578531" ref="index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy"/>
+    <file name="advertisment for website122.jpg" crc="4130797719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="final.jpg" crc="145130779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="png.png" crc="146919138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 281x51.jpg" crc="500934339" seo="true" ref="index:our-books:contact:n.-j.-sterling">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+    </file>
+    <file name="pasted image 281x512.jpg" crc="500934339" seo="true" ref="index:our-books:contact:n.-j.-sterling">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+    </file>
+    <file name="pasted image 281x513.jpg" crc="500934339" seo="true" ref="index:our-books:contact:n.-j.-sterling">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+    </file>
+    <file name="pasted image 281x51-crop-u2441.jpg" crc="299162441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 239x253.jpg" crc="3974763577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4838-4.png" crc="19725527" ref="index"/>
+    <file name="pasted image 239x2532.jpg" crc="3974763577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="use for websitye white logo for back background.png" crc="3759947621" seo="true" ref="index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="our-authors" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="private-policy" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3816564948" seo="true" ref="index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="our-authors" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="private-policy" alt=""/>
+    </file>
+    <file name="instagram.png" crc="401087940" seo="true" ref="index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="our-authors" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="private-policy" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="3867197866" seo="true" ref="index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="our-authors" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="private-policy" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="13645828" seo="true" ref="index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="our-authors" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="private-policy" alt=""/>
+    </file>
+    <file name="youtube.png" crc="529050654" seo="true" ref="index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="our-authors" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="private-policy" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="4116350432" seo="true" ref="index:our-authors:our-books:contact:n.-j.-sterling:classics:private-policy">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="classics" alt=""/>
+      <caption webpage="our-authors" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="private-policy" alt=""/>
+    </file>
+    <file name="u280-4.png" crc="160486531" ref="our-authors"/>
+    <file name="dsc_5778_ppsmaller_pp2-crop-u4429.jpg" crc="3850244890" seo="true" ref="our-authors">
+      <caption webpage="our-authors" alt=""/>
+    </file>
+    <file name="read more .jpg" crc="63903904" seo="true" ref="our-authors">
+      <caption webpage="our-authors" alt=""/>
+    </file>
+    <file name="u2888-4.png" crc="4011128584" ref="our-authors"/>
+    <file name="u4580-4.png" crc="418592539" ref="our-books"/>
+    <file name="pasted image 580x280.jpg" crc="4012787987" seo="true" ref="our-books:n.-j.-sterling">
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+    </file>
+    <file name="pasted image 512x5122.jpg" crc="58245238" seo="true" ref="our-books:n.-j.-sterling">
+      <caption webpage="our-books" alt=""/>
+      <caption webpage="n.-j.-sterling" alt=""/>
+    </file>
+    <file name="pasted image 351x378-crop-u4585.jpg" crc="23970124" seo="true" ref="our-books">
+      <caption webpage="our-books" alt=""/>
+    </file>
+    <file name="pasted image 305x320-crop-u4589.jpg" crc="4024673469" seo="true" ref="our-books">
+      <caption webpage="our-books" alt=""/>
+    </file>
+    <file name="u4568-8.png" crc="3993480528" ref="our-books"/>
+    <file name="pasted image 281x51-crop-u4575.jpg" crc="3955664705" seo="true" ref="our-books">
+      <caption webpage="our-books" alt=""/>
+    </file>
+    <file name="u4862-4.png" crc="19725527" ref="contact"/>
+    <file name="pasted image 1547x870-crop-u1030.jpg" crc="4083914838" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 900x900-crop-u1070.jpg" crc="4000253108" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 600x300-crop-u1040.jpg" crc="4277922361" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 512x51262x62.jpg" crc="4199135567" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 300x30061x61.jpg" crc="177791739" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted image 281x51-crop-u2850.jpg" crc="299162441" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u218-4.png" crc="3828535256" ref="n.-j.-sterling"/>
+    <file name="dsc_5778_ppsmaller_pp2-crop-u4443.jpg" crc="157853057" seo="true" ref="n.-j.-sterling">
+      <caption webpage="n.-j.-sterling" alt=""/>
+    </file>
+    <file name="u4471-4.png" crc="418592539" ref="n.-j.-sterling"/>
+    <file name="pasted image 351x378-crop-u4476.jpg" crc="23970124" seo="true" ref="n.-j.-sterling">
+      <caption webpage="n.-j.-sterling" alt=""/>
+    </file>
+    <file name="pasted image 305x320-crop-u4480.jpg" crc="4024673469" seo="true" ref="n.-j.-sterling">
+      <caption webpage="n.-j.-sterling" alt=""/>
+    </file>
+    <file name="u4459-8.png" crc="3993480528" ref="n.-j.-sterling"/>
+    <file name="pasted image 281x51-crop-u4466.jpg" crc="3955664705" seo="true" ref="n.-j.-sterling">
+      <caption webpage="n.-j.-sterling" alt=""/>
+    </file>
+    <file name="u2147-4.png" crc="45337545" ref="classics"/>
+    <file name="u2175-4.png" crc="359823502" ref="classics"/>
+    <file name="u2225-4.png" crc="24432121" ref="classics"/>
+    <file name="u2115-4.png" crc="24432121" ref="classics"/>
+    <file name="u2205-4.png" crc="24432121" ref="classics"/>
+    <file name="u2266-4.png" crc="371333638" ref="classics"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="216291939" ref="phone>contact:phone>classics:phone>our-books:phone>index:phone>authors"/>
+      <file name="contact.css" crc="3796065930" ref="phone>contact"/>
+      <file name="classics.css" crc="4238498953" ref="phone>classics"/>
+      <file name="our-books.css" crc="4147468985" ref="phone>our-books"/>
+      <file name="index.css" crc="65220617" ref="phone>index"/>
+      <file name="authors.css" crc="372477918" ref="phone>authors"/>
+    </folder>
+    <file name="index.html" crc="45029408" seo="true" mt="1533301487051" redirect="true"/>
+    <file name="our-books.html" crc="4231677719" seo="true" mt="1533298396247" redirect="true"/>
+    <file name="classics.html" crc="104261083" seo="true" mt="1511922696536" redirect="true"/>
+    <file name="contact.html" crc="3759368880" seo="true" mt="1533301447078" redirect="true"/>
+    <file name="authors.html" crc="262193445" seo="true" mt="1511922696536" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4037022124" seo="true" mt="1533301005265" redirect="true"/>
+  <file name="our-authors.html" crc="3822505356" seo="true" mt="1527244099624" redirect="true"/>
+  <file name="our-books.html" crc="103220837" seo="true" mt="1533298396172" redirect="true"/>
+  <file name="contact.html" crc="463605629" seo="true" mt="1533301248538" redirect="true"/>
+  <file name="n.-j.-sterling.html" crc="73164769" seo="true" mt="1533298396207" redirect="true"/>
+  <file name="classics.html" crc="413055288" seo="true" mt="1527244099624" redirect="true"/>
+  <file name="private-policy.html" crc="3871976401" seo="true" mt="1532854157000" redirect="true"/>
+</manifest>
